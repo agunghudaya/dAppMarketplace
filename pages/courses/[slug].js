@@ -1,4 +1,4 @@
-import { Modal } from "@components/common";
+import { Modal } from "@components/ui/common";
 import {
   CourseHero,
   Curriculum,
