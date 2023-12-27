@@ -15,7 +15,7 @@ export default function List({courses}) {
               <Image
                 className="object-cover"
                 src={course.coverImage}
-                layout="fixed"
+                fixed="1"
                 width="200"
                 height="230"
                 alt={course.title}
